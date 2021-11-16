@@ -1,0 +1,51 @@
+body{
+    overflow: scroll;
+}
+
+.aboutimg{
+    position: absolute;
+    left: 45%;
+    top: 40%;
+    
+}
+
+.aboutimg img{
+    border-radius: 50%;
+}
+
+.aboutme{
+    width: 90%;
+    height: 1000px;
+    background: rgb(48, 48, 48);
+    color: #FFF;
+    padding: 20px;
+    margin: 30px;
+    position: absolute;
+    top: 50%;
+}
+
+.aboutme h2{
+    font-family: Oswald, sans-serif;
+    font-size: 33px;
+    color: #FFF;
+}
+
+
+/* INTRODUÇÂO ABNERNDR*/
+
+.aboutme h3{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+}
+
+.aboutme b, p, h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.color{
+    color: blueviolet;
+}
+
+.aboutme b{
+    text-align: center;
+}

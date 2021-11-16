@@ -1,0 +1,14 @@
+a[href="#top"]{
+    padding:10px;
+    position:fixed;
+    top: 90%;
+    right:40px;
+    display:none;
+    font-size: 30px;
+    color: rgb(115, 8, 255, 0.7);
+    
+}
+a[href="#top"]:hover{
+    text-decoration:none;
+    color: rgb(115, 8, 255);
+}
