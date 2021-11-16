@@ -2,4 +2,4 @@
 
 Primeiro Portfolio e Projeto
 
-<img src="capa.JPG" alt="Capa">
+<img src="/.github/capa.JPG" alt="Capa">
